@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "web-clovis-leiloeiro",
+    "clovis": "clovis-leiloeiro"
+  }
+}
